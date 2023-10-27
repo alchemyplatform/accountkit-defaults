@@ -1,0 +1,61 @@
+{
+  "1": {
+    "simpleAccountFactoryAddress": "0x15Ba39375ee2Ab563E8873C8390be6f2E2F50232",
+    "lightAccountFactoryAddress": "0x000000893A26168158fbeaDD9335Be5bC96592E2",
+    "entryPointContractAddress": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  },
+  "11155111": {
+    "simpleAccountFactoryAddress": "0x9406Cc6185a346906296840746125a0E44976454",
+    "lightAccountFactoryAddress": "0x000000893A26168158fbeaDD9335Be5bC96592E2",
+    "entryPointContractAddress": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  },
+  "5": {
+    "simpleAccountFactoryAddress": "0x9406Cc6185a346906296840746125a0E44976454",
+    "lightAccountFactoryAddress": "0x000000893A26168158fbeaDD9335Be5bC96592E2",
+    "entryPointContractAddress": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  },
+
+  "137": {
+    "simpleAccountFactoryAddress": "0x15Ba39375ee2Ab563E8873C8390be6f2E2F50232",
+    "lightAccountFactoryAddress": "0x000000893A26168158fbeaDD9335Be5bC96592E2",
+    "entryPointContractAddress": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  },
+  "80001": {
+    "simpleAccountFactoryAddress": "0x9406Cc6185a346906296840746125a0E44976454",
+    "lightAccountFactoryAddress": "0x000000893A26168158fbeaDD9335Be5bC96592E2",
+    "entryPointContractAddress": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  },
+
+  "10": {
+    "simpleAccountFactoryAddress": "0x15Ba39375ee2Ab563E8873C8390be6f2E2F50232",
+    "lightAccountFactoryAddress": "0x000000893A26168158fbeaDD9335Be5bC96592E2",
+    "entryPointContractAddress": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  },
+  "420": {
+    "simpleAccountFactoryAddress": "0x9406cc6185a346906296840746125a0e44976454",
+    "lightAccountFactoryAddress": "0x000000893A26168158fbeaDD9335Be5bC96592E2",
+    "entryPointContractAddress": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  },
+
+  "42161": {
+    "simpleAccountFactoryAddress": "0x15Ba39375ee2Ab563E8873C8390be6f2E2F50232",
+    "lightAccountFactoryAddress": "0x000000893A26168158fbeaDD9335Be5bC96592E2",
+    "entryPointContractAddress": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  },
+  "421613": {
+    "simpleAccountFactoryAddress": "0x9406cc6185a346906296840746125a0e44976454",
+    "lightAccountFactoryAddress": "0x000000893A26168158fbeaDD9335Be5bC96592E2",
+    "entryPointContractAddress": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  },
+
+  "8453": {
+    "simpleAccountFactoryAddress": "0x15Ba39375ee2Ab563E8873C8390be6f2E2F50232",
+    "lightAccountFactoryAddress": "0x000000893A26168158fbeaDD9335Be5bC96592E2",
+    "entryPointContractAddress": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  },
+  "84531": {
+    "simpleAccountFactoryAddress": "0x15Ba39375ee2Ab563E8873C8390be6f2E2F50232",
+    "lightAccountFactoryAddress": "0x000000893A26168158fbeaDD9335Be5bC96592E2",
+    "entryPointContractAddress": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789"
+  }
+}
